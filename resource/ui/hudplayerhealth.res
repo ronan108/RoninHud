@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudClassHealth"
+		"font"			"Batman Forever16"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"
