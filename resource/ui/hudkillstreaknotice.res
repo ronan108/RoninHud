@@ -7,8 +7,8 @@
 		"xpos"			"c-250"
 		"ypos"			"50"
 		"zpos"			"0"
-		"wide"			"500"
-		"tall"			"50"
+		"wide"			"f0"
+		"tall"			"480"
 		"autoResize"	"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -32,3 +32,4 @@
 		"fgcolor"		"tanlight"
 	}
 }
+1

@@ -48,6 +48,7 @@
 		"enabled"		"1"
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
+		"fgcolor"		"Red"
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
@@ -86,8 +87,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Batman Forever16"
-		"fgcolor"		"TanDark"
+		"font"			"Batman Forever36"
+		"fgcolor"		"Black"
 	}								
 	"PlayerStatusBleedImage"
 	{
@@ -103,7 +104,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"Red"
 	}		
 	"PlayerStatusMilkImage"
 	{

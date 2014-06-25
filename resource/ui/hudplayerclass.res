@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"0"
+		"xpos"			"145"
 		"ypos"			"0"
 		"ypos_minmode"	"18"
 		"zpos"			"1"
@@ -20,10 +20,10 @@
 		"fieldName"		"PlayerStatusClassImage"
 		"xpos"			"25"	[$WIN32]
 		"xpos_minmode"	"15"	[$WIN32]
-		"ypos"			"r88"	[$WIN32]
+		"ypos"			"105"	[$WIN32]
 		"ypos_minmode"	"r54"	[$WIN32]
 		"xpos"			"57"	[$X360]
-		"ypos"			"r110"	[$X360]
+		"ypos"			"110"	[$X360]
 		"zpos"			"2"
 		"wide"			"75"
 		"wide_minmode"	"37"
@@ -80,17 +80,17 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusClassImageBG"
-		"xpos"			"9"		[$WIN32]
+		"xpos"			"9999"		[$WIN32]
 		"xpos_minmode"	"-10"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
+		"ypos"			"9999"	[$WIN32]
 		"ypos_minmode"		"r40"	[$WIN32]
 		"xpos"			"41"	[$X360]
 		"ypos"			"r82"	[$X360]
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"
 		"image"			"../hud/character_red_bg"	
 		"teambg_2"		"../hud/character_red_bg"
@@ -103,18 +103,18 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
-		"xpos"			"-1"		[$WIN32]
+		"xpos"			"9999"		[$WIN32]
 		"xpos_minmode"	"-15"		[$WIN32]
 		"ypos"			"r60"	[$WIN32]
-		"ypos_minmode"		"r40"	[$WIN32]
+		"ypos_minmode"		"9999"	[$WIN32]
 		"xpos"			"41"	[$X360]
 		"ypos"			"r82"	[$X360]
 		"zpos"			"1"		
 		"wide"			"109"
 		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"
+		"visible"		"0"
+		"enabled"		"0"
+		"scaleImage"	"0"
 		"image"				"../hud/character_red_bg_clipped"	
 		"teambg_2"			"../hud/character_red_bg_clipped"
 		"teambg_2_lodef"	"../hud/character_red_bg_lodef_clipped"
@@ -127,9 +127,9 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"0"	[$WIN32]
+		"xpos"			"5"	[$WIN32]
 		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"r214"	[$WIN32]
+		"ypos"			"c-50"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"zpos"			"2"		
 		"wide"			"100"
@@ -138,8 +138,8 @@
 		"tall_minmode"	"102"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		
 		"render_texture"	"0"
 		"fov"			"12"

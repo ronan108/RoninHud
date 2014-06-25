@@ -2407,22 +2407,22 @@ Scheme
 			}
 		}
 
-		Batman Forever16
+		Batman Forever36
 		{
 			"1"
 			{
 				"name"		"BatmanForeverAlternate"
-				"tall"		"16"
+				"tall"		"36"
 				"antialias" "1"
 			}
 		}
 
-		Airstrike16
+		Airstrike24
 		{
 			"1"
 			{
 				"name"		"Airstrike Expanded"
-				"tall"		"16"
+				"tall"		"24"
 				"antialias" "1"
 			}
 		}
